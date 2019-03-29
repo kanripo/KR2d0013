@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 郝氏續後漢書
-#+DATE: 2019-03-29 20:49:57.560640
+#+DATE: 2019-03-29 20:49:58.439626
 #+PROPERTY: ID KR2d0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 61
 <pb:KR2d0013_WYG_061-1a>¶
 　　欽定四庫全書¶
@@ -14,7 +14,7 @@
 ¶
 　　吳臣¶
 ¶
-　　薛綜(子珝&KR0631;)　胡綜(徐詳)　駱統(父俊謝淵)　陸瑁¶
+　　薛綜(子珝瑩)　胡綜(徐詳)　駱統(父俊謝淵)　陸瑁¶
 ¶
 　　是儀　李衡¶
 ¶

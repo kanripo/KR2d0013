@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 郝氏續後漢書
-#+DATE: 2019-03-29 20:49:57.902927
+#+DATE: 2019-03-29 20:49:58.784307
 #+PROPERTY: ID KR2d0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 93
 <pb:KR2d0013_WYG_093-1a>¶
 　　欽定四庫全書¶
@@ -172,7 +172,7 @@
 <pb:KR2d0013_WYG_093-9b>¶
 之禮制遂大壞矣漢興因周秦列國厖雜之制列為等¶
 衰代加増賁習以為常遂為漢制終不能改制度易服¶
-色且史臣不録於是無徴至范&KR0110;始志輿服劉昭為之¶
+色且史臣不録於是無徴至范曄始志輿服劉昭為之¶
 補注掇拾梗槩略見儀矩其詳不可得聞矣¶
 ¶
 　　印綬¶

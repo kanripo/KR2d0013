@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 郝氏續後漢書
-#+DATE: 2019-03-29 20:49:57.795839
+#+DATE: 2019-03-29 20:49:58.687066
 #+PROPERTY: ID KR2d0013
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 87
 <pb:KR2d0013_WYG_087-1a>¶
 　　欽定四庫全書¶
@@ -66,7 +66,7 @@
 冀州唐亡于黄巢而禍基于桂林易之意深矣)易曰履霜堅冰至詩曰肇允彼¶
 桃蟲拚飛維鳥可不戒哉¶
 ¶
-　　賛曰獠蜑非𩔖融結&KR0275;瘴綱維解弛猱玃突上喪羊于¶
+　　賛曰獠蜑非𩔖融結颶瘴綱維解弛猱玃突上喪羊于¶
 <pb:KR2d0013_WYG_087-4a>¶
 易獖豕牙吉詔能亡唐戒之在得¶
 ¶
